@@ -1,3 +1,3 @@
-# Projekt-Kaffeeabf-llung
+# Projekt-Kaffeeabfuellung
 Hier können die aktuellen Stände der Software geteilt werden. 
 
