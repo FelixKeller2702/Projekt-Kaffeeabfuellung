@@ -1,0 +1,7 @@
+Hier finden Sie den kompletten Quellcode.
+
+hx711.py und setup.py sind nötig um die Ansteuerung der HX711-Module zu ermöglichen.
+
+In gui_without_GPIO.py ist das Main Programm. 
+In servo.py findet die Steuerung der Servomotoren statt.
+In waage.py findet die Steuerung der Wägezellen statt.
