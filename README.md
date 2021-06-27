@@ -1,3 +1,3 @@
 # Projekt-Kaffeeabfuellung
-Hier können die aktuellen Stände der Software geteilt werden. 
+Hier finden Sie die Dokumentation des Projekts und alle dazugehörigen Dateien. 
 
