@@ -8,4 +8,5 @@ Im Stundenzettel-Ordner können die Stundenzettel der Stundenten eingesehen werd
 Die Materialliste zeigt alle verwendeten Teile und die dazugehörigen Kosten.
 
 Beteiligte Stundenten:              Maurice Allers, Jannick Rowedder, Heiko Jedamski, Felix Keller
+
 Dieses Projekt wurde betreut von:   Frank Bargel, Ulrich Hoffmann
