@@ -1,4 +1,4 @@
-# Projekt-Kaffeeabfuellung
+# Projekt Kaffee Mare Abfüllanlage
 Hier finden Sie die Dokumentation des Projekts und alle dazugehörigen Dateien. 
 
 Der Quellcode-Ordner enthält alle Quellcode Dateien und einen Link, welcher das Image des Raspberry Pis herunterlädt.
