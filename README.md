@@ -1,8 +1,8 @@
 # Projekt-Kaffeeabfuellung
 Hier finden Sie die Dokumentation des Projekts und alle dazugehörigen Dateien. 
 
-Der Quellcode-Order enthält alle Quellcode Dateien und einen Link, welcher das Image des Raspberry Pis herunterlädt.
-Alle Konstruktionszeichnungen sind im Konstruktionszeichnungen-ORdern zu finden. Des Weiteren befinden sich dort auch die Lasercutter Dateien.
+Der Quellcode-Ordner enthält alle Quellcode Dateien und einen Link, welcher das Image des Raspberry Pis herunterlädt.
+Alle Konstruktionszeichnungen sind im Konstruktionszeichnungen-Ordner zu finden. Des Weiteren befinden sich dort auch die Lasercutter Dateien.
 Im Stundenzettel-Ordner können die Stundenzettel der Stundenten eingesehen werden.
 
 Die Materialliste zeigt alle verwendeten Teile und die dazugehörigen Kosten.
