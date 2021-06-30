@@ -7,5 +7,6 @@ In servo.py findet die Steuerung der Servomotoren statt.
 In waage.py findet die Steuerung der Wägezellen statt.
 
 Das Image der SD-Karte kann hier heruntergeladen werden:
+Bei diesem Image handelt es sich um Rasbian für Ubuntu für x86.
 
 https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-05-28/2021-05-07-raspios-buster-armhf-full.zip
